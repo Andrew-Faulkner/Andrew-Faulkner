@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrew-Faulkner
-- 👀 I’m interested in nearly everything from Computer grapics to hardware to embedded systems and machine learning!
--     Most of the projects I have on here are Assignments from my time at Mcmaster University for school from 2018-2022.
+- 👀 I’m interested in nearly everything from computer grapics to hardware to embedded systems and machine learning!
+- ✨ Most of the projects I have on here are Assignments from my time at Mcmaster University for school from 2018-2022.
 - 🌱 I’m currently learning CSS and HTML in my spare time
 - 💞️ I’m currently looking for full time employment
 - 📫 How to reach me 
