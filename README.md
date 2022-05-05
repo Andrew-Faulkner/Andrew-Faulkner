@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning CSS and HTML in my spare time
 - 💞️ I’m currently looking for full time employment
 - 📫 How to reach me 
-  email:arfaulkner2000@gmail.com
-  phone: 905-966-0906
+- email:arfaulkner2000@gmail.com
+- phone: 905-966-0906
   
 <!---
 Andrew-Faulkner/Andrew-Faulkner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
