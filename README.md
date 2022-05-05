@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning CSS and HTML in my spare time
 - 💞️ I’m currently looking for full time employment
 - 📫 How to reach me 
-- email:arfaulkner2000@gmail.com
+- email: arfaulkner2000@gmail.com
 - phone: 905-966-0906
   
 <!---
